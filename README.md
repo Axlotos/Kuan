@@ -1,2 +1,10 @@
 # Kuan
-Kernel of Unlimited AwsomeNess (Kuan) is a kernel I created from scratch written in C.
+Kuan is a kernel I created from scratch written in C.
+
+**K**ernel of
+
+**U**nlimited
+
+**A**wsome ...
+
+**N**ess

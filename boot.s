@@ -1,3 +1,6 @@
+# The entry part of Kuan
+# This program sets up memory and stuff
+
 .section .multibootHeader
     headerStart:
         .long 0xE85250D6 # Tells GRUB that this program is a kernel

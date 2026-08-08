@@ -1,4 +1,4 @@
-// Main C program for Kernel of Unlimited AwsomeNess (Kuan)
+// Main C program for Kuan
 
 typedef struct 
 {

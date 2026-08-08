@@ -15,7 +15,7 @@ int main(unsigned int multibootInfoAddr)
 {
     unsigned char *tagPtr = (unsigned char *)multibootInfoAddr + 8;
 
-while (1)
+    while (1)
     {
         // Read the type and size temporarily without moving tagPtr
         unsigned int type = *(unsigned int *)tagPtr;

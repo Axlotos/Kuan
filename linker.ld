@@ -1,4 +1,4 @@
-/* linker script for compiling Kuan*/
+/* linker script for compiling Kuan with ld*/
 ENTRY(_start)
 
 SECTIONS

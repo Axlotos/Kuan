@@ -1,4 +1,4 @@
-// Main C program for Kuan
+// Main program for Kuan
 
 typedef struct 
 {

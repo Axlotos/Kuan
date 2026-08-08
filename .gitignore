@@ -1,1 +1,3 @@
-.vscode
+boot.o
+main.o
+kuan.elf

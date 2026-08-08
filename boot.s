@@ -13,8 +13,8 @@
         .long 20
 
         # Screen stuff
-        .long 1920 # width
-        .long 1080 # height
+        .long 0 # width
+        .long 0 # height
         .long 32 # depth (colour, 32 for 32 bit colour)
 
         # Alignment
@@ -41,7 +41,7 @@
 
         push %ebx
 
-        call kuanMain
+        call main
 
         cli
 

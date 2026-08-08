@@ -2,4 +2,3 @@ main.o
 boot.o
 kuan.elf
 grub.cfg
-bob

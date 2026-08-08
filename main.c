@@ -1,4 +1,4 @@
-// Main program for Kuanbobs
+// Main program for Kuan
 
 typedef struct 
 {

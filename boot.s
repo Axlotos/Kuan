@@ -38,11 +38,8 @@
 
     _start:
         movl $stackTop, %esp
-
         push %ebx
-
         call main
-
         cli
 
     loop:

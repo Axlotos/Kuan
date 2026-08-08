@@ -1,4 +1,4 @@
-# The entry part of Kuanbob
+# The entry part of Kuan
 # This program sets up memory and stuff
 
 .section .multibootHeader

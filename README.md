@@ -1,4 +1,4 @@
-# Kernel of Unlimited AwsomeNess
+# Kernel of Unlimited AwsomeNessbob
 
 Kuan is a kernel I created from scratch written in C.
 

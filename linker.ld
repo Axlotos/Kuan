@@ -1,4 +1,4 @@
-/* linker script for compiling Kuan with ld*/
+/* linker script for compiling Kuan with ld*/bob
 ENTRY(_start)
 
 SECTIONS

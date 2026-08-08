@@ -1,5 +1,5 @@
 # The entry program of Kuan
-# This program sets up memory and stuff then calls the main function in main.c
+# This program sets up memory and stuff then calls the main function in main.cbob
 
 .section .multibootHeader
     headerStart:

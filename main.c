@@ -1,4 +1,4 @@
-// Main C program for Kuan
+// Main C program for Kuanbob
 
 typedef struct 
 {

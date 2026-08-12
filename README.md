@@ -7,7 +7,7 @@
 
 ---
 
-Kuan is pronounced like the quan in **quan**tum **quan**tity.
+Kuan is pronounced like the quan in **quan**tum or **quan**tity.
 
 Kuan is a kernel I created from scratch written in C.  
 There is also a boot program written in Assembly.

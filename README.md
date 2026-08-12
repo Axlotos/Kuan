@@ -15,7 +15,7 @@ There is also a boot program written in Assembly.
 Kuan is Linux-like meaning it's inspired by Linux but is not built off of Linux.  
 Kuan is open source like Linux, once it's a real kernel the filesystem will be similar and how you run system calls will be the same.
 
-Currently, Kuan just makes the first 2 rows of pixels blue but I will make it a real kernel later.
+Currently, Kuan just makes the first 2 rows of pixels purple and draws some rectangles but I will make it a real kernel later.
 
 ## Future projects with Kuan
 

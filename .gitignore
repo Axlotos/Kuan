@@ -1,4 +1,7 @@
 main.o
 boot.o
 kuan.elf
-grub.cfg
+.vscode/
+isodir/
+kuan.iso
+buildiso.sh

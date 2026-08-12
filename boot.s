@@ -16,8 +16,8 @@
         .long 20
 
         # Screen stuff
-        .long 0 # width
-        .long 0 # height
+        .long 1024 # width
+        .long 768 # height
         .long 32 # depth (colour, 32 for 32 bit colour)
 
         # Alignment
